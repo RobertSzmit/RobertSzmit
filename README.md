@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **arkadiusz.antonkiewicz@op.pl**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
