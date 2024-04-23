@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Arek</h1>
-<h3 align="center">A passionate Android developer from Poland</h3>
+<h3 align="center">A passionate mobile developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertszmit&label=Profile%20views&color=0e75b6&style=flat" alt="robertszmit" /> </p>
 
-- 🔭 I’m currently working on [FootballClubApp](https://github.com/RobertSzmit/FootballClubApp)
+- 🔭 I’m currently working on Flutter applications
 
-- 🌱 I’m currently learning **Android, Java, REST API, etc.**
+- 🌱 I’m currently learning **Android, Flutter, Dart, Java, FireBase, REST API, etc.**
 
 - 📫 How to reach me **arkadiusz.antonkiewicz@op.pl**
 
